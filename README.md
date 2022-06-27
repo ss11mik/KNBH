@@ -47,3 +47,7 @@ Define woman as a person with surname ending with `á` or firstname ending with 
 * Example:
     * `./main.py -b=B05 -f=2`
     * `python3 main.py -b=B05 -f=2`
+
+## ScrapeAll.sh
+
+Script to scrape all stories on all the blocks. It writes to a new folder named with current time/date.
