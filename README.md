@@ -4,6 +4,8 @@
   <img src="/img/orly.png?raw=true">
 </p>
 
+## Note: As of 18/05/2023, this script stopped working due to new protection from scraping in KolejNet IS which requires a variable symbol to list room inhabitants. Hence this project becomes archived.
+
 ## Description
 
 Define woman as a person with surname ending with `á` or firstname ending with `a` or `e`. The script searches persons on the specified floor and block defined by user via parameters. Women are displayed with red bold color.
